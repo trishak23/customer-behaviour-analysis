@@ -34,7 +34,7 @@ customer-behaviour-analysis/
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/customer-behaviour-analysis.git
+git clone https://github.com/trishak23/customer-behaviour-analysis.git
 cd customer-behaviour-analysis
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
